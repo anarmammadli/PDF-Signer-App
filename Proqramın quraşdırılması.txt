@@ -1,0 +1,7 @@
+Proqramın düzgün şəkildə işləməsi üçün yüklənilən "1726209131917.ePass2003-Setup.exe" və "setup.exe" quraşdırılmalıdır.
+
+PDFSignerSetup.msi-ı quraşdırmağa ehtiyac yoxdur. setup.exe bu məsələni həll edir.
+
+setup.exe-ni quraşdırarkən PDF İmzalayacı proqramının yüklənəcəyi lokasiyanı seçməyi unutmayın.
+
+.NET v.4.7.2 framework
